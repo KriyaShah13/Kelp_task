@@ -1,0 +1,26 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+John,Doe,28,123 Elm St,,Springfield,IL,Male
+Jane,Smith,34,456 Oak St,Apt 2B,Greenfield,MA,Female
+Michael,Johnson,40,789 Pine St,,Riverside,CA,Male
+Emily,Williams,22,101 Maple St,Unit 5A,Newark,NJ,Female
+David,Jones,31,234 Cedar St,,Boulder,CO,Male
+Sophia,Brown,27,567 Birch St,Apt 7C,Tucson,AZ,Female
+Daniel,Miller,45,890 Aspen St,,Orlando,FL,Male
+Olivia,Davis,29,321 Cherry St,Apt 1D,Columbus,OH,Female
+Matthew,Garcia,36,654 Spruce St,,Madison,WI,Male
+Ava,Martinez,24,987 Willow St,Apt 3E,Charlotte,NC,Female
+James,Wilson,33,147 Palm St,,Austin,TX,Male
+Mia,Anderson,26,258 Maple Ave,Apt 4F,Portland,OR,Female
+Christopher,Thomas,39,369 Oak Ave,,Nashville,TN,Male
+Isabella,Moore,25,741 Pine Ave,Apt 6G,Seattle,WA,Female
+Joshua,Jackson,42,852 Elm Ave,,Boston,MA,Male
+Amelia,White,30,963 Birch Ave,Apt 2H,Denver,CO,Female
+Ethan,Harris,37,174 Cedar Ave,,San Diego,CA,Male
+Charlotte,Martin,23,285 Aspen Ave,Apt 5I,Miami,FL,Female
+Andrew,Thompson,38,396 Palm Ave,,Las Vegas,NV,Male
+Grace,Martinez,32,507 Maple St,Apt 7J,Kansas City,MO,Female
+Joseph,Robinson,44,618 Cherry St,,Minneapolis,MN,Male
+Ella,Clark,21,729 Oak St,Apt 8K,San Francisco,CA,Female
+Benjamin,Rodriguez,35,840 Pine St,,Detroit,MI,Male
+Lily,Lewis,28,951 Birch St,Apt 3L,Philadelphia,PA,Female
+Samuel,Lee,41,123 Cedar St,,Indianapolis,IN,Male
