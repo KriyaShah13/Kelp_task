@@ -20,8 +20,8 @@ function createHierarchyFromObject(obj) {
     const result = {};
   
     for (const path in obj) {
-      const parts = path.split('.');
-      let current = result;
+      const parts = path.split('.'); // ["name", "lastName"]
+      let current = result; // {'firstName': 'Heet'}
   
       for (let i = 0; i < parts.length; i++) {
         const part = parts[i];

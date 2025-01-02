@@ -5,6 +5,7 @@ const {bulkUploadToDb} = require('../repositories/user.repository');
 // Function to read data from CSV
 exports.csvToJson = async (req, res) => {
     const filePath = process.env.CSV_FILE_PATH;
+    //CSV to JSON
     const rawJson = await readCsv(filePath);
     const userDetails = convertRawJsonToObject(rawJson);
     await bulkUploadToDb(userDetails);
